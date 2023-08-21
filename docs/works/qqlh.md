@@ -1,7 +1,7 @@
 ---
 order: 1000
 nav:
-  title: 作品
+  qna.cod: 作品
   order: 9
 ---
 
@@ -14,7 +14,7 @@ nav:
 
 用 vue3 重写了一个，
 
-- 演示地址 [https://qqlh3.tiiit.cn/](https://qqlh3.tiiit.cn/)
+- 演示地址 [https://qqlh3.qna.cod/](https://qqlh3.qna.cod/)
 - 代码 [https://github.com/chenhaihong/qqlh3](https://github.com/chenhaihong/qqlh3)
 
-<img src="https://tiiit-cn.oss-cn-shenzhen.aliyuncs.com/images/works/qqlh.gif" style="margin-top: 20px; max-width: 600px; border:1px solid #ccc;" title="公交lite的小程序吗" alt="公交lite的小程序吗" />
+<img src="https://qna.cod.oss-cn-shenzhen.aliyuncs.com/images/works/qqlh.gif" style="margin-top: 20px; max-width: 600px; border:1px solid #ccc;" title="公交lite的小程序吗" alt="公交lite的小程序吗" />
